@@ -429,12 +429,13 @@ display: flex;
     padding: 2.5rem;
     font-size: 1.8rem;
     color: var(--text-color);
-    background: var(--second-bg-color);
+    background: var(--bg-color);
     border-radius: 2rem;
     border: 2px solid var(--main-color);
     margin: 1.5rem 0;
     outline: none  ;
     resize: none;
+    background: var(--second-bg-color);
 }
 .footer form button{
     padding: 10px 30px;
